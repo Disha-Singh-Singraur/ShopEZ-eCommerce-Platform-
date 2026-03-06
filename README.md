@@ -59,8 +59,8 @@ project-root
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
+git clone https://github.com/Disha-Singh-Singraur/ShopEZ-eCommerce-Platform-.git
+cd ShopEZ-eCommerce-Platform-
 ```
 
 ---
