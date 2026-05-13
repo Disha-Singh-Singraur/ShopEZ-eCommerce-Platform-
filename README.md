@@ -106,15 +106,6 @@ http://localhost:5173
 
 ---
 
-## Team Members
-
-- Anishka Uikey
-- Disha Singh Singraur
-- Devendra Singh
-- Ankit Tiwary
-
----
-
 ## License
 
 This project was developed as part of an academic team project to demonstrate full-stack development using the MERN stack.
